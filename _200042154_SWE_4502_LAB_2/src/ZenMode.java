@@ -39,6 +39,6 @@ public class ZenMode extends FruitNinjaGame {
 
     @Override
     void playJungleEvent() {
-        System.out.println("Starting Jungle Event in Zen Mode.");
+        System.out.println("Playing Jungle Event in Zen Mode.");
     }
 }
