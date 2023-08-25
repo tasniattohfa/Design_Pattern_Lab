@@ -37,6 +37,6 @@ public class ClassicMode extends FruitNinjaGame {
 
     @Override
     void playJungleEvent() {
-        System.out.println("No Jungle Event in Classic Mode.");
+            System.out.println("Playing Jungle Event in Classic Mode...");
     }
 }
